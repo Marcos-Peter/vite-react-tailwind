@@ -1,7 +1,7 @@
 # Vite + React + TailwindCSS + TypeScript Boilerplate
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Marcos-Peter/vite-react-tailwind/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Marcos-Peter/vite-react-tailwind/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Marcos-Peter/vite-react-tailwind/blob/master/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Marcos-Peter/vite-react-tailwind/blob/master/README.pt-br.md)
 
 ## Sobre o Projeto
 
