@@ -1,7 +1,7 @@
 # Vite + React + TailwindCSS + TypeScript Boilerplate
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Marcos-Peter/vite-react-tailwind-boilerplate/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Marcos-Peter/vite-react-tailwind-boilerplate/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Marcos-Peter/vite-react-tailwind/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Marcos-Peter/vite-react-tailwind/README.pt-br.md)
 
 ## Sobre o Projeto
 
@@ -45,8 +45,8 @@ Este repositório é um boilerplate para projetos utilizando **Vite**, **React**
 ### 1. Clone o Repositório
 
 ```sh
-git clone https://github.com/Marcos-Peter/vite-react-tailwind.git
-cd vite-react-tailwind
+git clone https://github.com/Marcos-Peter/vite-react-tailwind.git seu-projeto
+cd seu-projeto
 ```
 
 ### 2. Instale as Dependências
